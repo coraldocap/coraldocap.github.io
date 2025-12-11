@@ -255,31 +255,36 @@
   Up Arrow
 </button>
 
+<!-- BOTÃO VOLTAR AO TOPO – Seta real -->
+<button id="backToTop" title="Voltar ao topo">
+  Up Arrow
+</button>
+
 <style>
 #backToTop {
   position: fixed;
   bottom: 30px;
   right: 30px;
-  width: 55px;
-  height: 55px;
-  background: #b00;
+  width: 56px;
+  height: 56px;
+  background: #c00;
   color: white;
   border: none;
   border-radius: 50%;
-  font-size: 30px;
+  font-size: 32px;
   cursor: pointer;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
   z-index: 9999;
   opacity: 0;
   visibility: hidden;
-  transition: all 0.4s ease;
+  transition: all 0.35s ease;
   outline: none;
 }
 
 #backToTop:hover {
-  background: #900;
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+  background: #a00;
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
 }
 
 #backToTop.show {
@@ -289,7 +294,7 @@
 </style>
 
 <script>
-window.addEventListener('scroll', function() {
+window.addEventListener('scroll', function () {
   const btn = document.getElementById('backToTop');
   if (window.scrollY > 400) {
     btn.classList.add('show');
@@ -297,9 +302,15 @@ window.addEventListener('scroll', function() {
     btn.classList.remove('show');
   }
 });
+
+// Clique com rolagem suave
+document.getElementById('backToTop').addEventListener('click', function () {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
 </script>
 </body>
 </html>
+
 
 
 
