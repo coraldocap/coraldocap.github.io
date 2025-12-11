@@ -255,10 +255,8 @@
   Up Arrow
 </button>
 
-<!-- BOTÃO VOLTAR AO TOPO – Seta real -->
-<button id="backToTop" title="Voltar ao topo">
-  Up Arrow
-</button>
+<!-- BOTÃO VOLTAR AO TOPO – SÓ COM SETA -->
+<button id="backToTop" title="Voltar ao topo">Up Arrow</button>
 
 <style>
 #backToTop {
@@ -279,12 +277,18 @@
   visibility: hidden;
   transition: all 0.35s ease;
   outline: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#backToTop::before {
+  content: "Up Arrow";
 }
 
 #backToTop:hover {
   background: #a00;
   transform: translateY(-6px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
 }
 
 #backToTop.show {
@@ -294,22 +298,17 @@
 </style>
 
 <script>
-window.addEventListener('scroll', function () {
-  const btn = document.getElementById('backToTop');
-  if (window.scrollY > 400) {
-    btn.classList.add('show');
-  } else {
-    btn.classList.remove('show');
-  }
+window.addEventListener('scroll', () => {
+  document.getElementById('backToTop').classList.toggle('show', window.scrollY > 400);
 });
 
-// Clique com rolagem suave
-document.getElementById('backToTop').addEventListener('click', function () {
+document.getElementById('backToTop').addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
 </script>
 </body>
 </html>
+
 
 
 
