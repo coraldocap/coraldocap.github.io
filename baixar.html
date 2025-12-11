@@ -745,8 +745,70 @@
 <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+	<!-- BOTÃO VOLTAR AO TOPO – Estilo clássico com borda (super leve e bonito) -->
+<button id="backToTop" title="Voltar ao topo">
+  <span class="up"></span>
+</button>
+
+<style>
+/* Botão fixo no canto inferior direito */
+#backToTop {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 9999;
+  width: 56px;
+  height: 56px;
+  background: #c00;           /* vermelho coral */
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.35s ease;
+  outline: none;
+}
+
+/* Hover */
+#backToTop:hover {
+  background: #a00;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+/* Mostra o botão quando rola */
+#backToTop.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Seta feita só com CSS (a sua classe .up) */
+.up {
+  border: solid white;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 6px;
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+</style>
+
+<script>
+// Mostra/esconde o botão
+window.addEventListener('scroll', function() {
+  document.getElementById('backToTop')
+    .classList.toggle('show', window.scrollY > 400);
+});
+
+// Rolagem suave ao topo
+document.getElementById('backToTop').addEventListener('click', function() {
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+</script>
 </body>
 </html>
+
 
 
 
