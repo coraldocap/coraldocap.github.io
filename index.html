@@ -68,6 +68,7 @@
 
     footer{padding:20px 0;text-align:center;color:#444}
     .muted{color:#666;font-size:14px}
+	  
   </style>
 </head>
 <body>
@@ -249,8 +250,57 @@
 <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
+	<!-- BOTÃO VOLTAR AO TOPO (versão elegante) -->
+<button onclick="window.scrollTo({top:0,behavior:'smooth'})" id="backToTop" title="Voltar ao topo">
+  Up Arrow
+</button>
+
+<style>
+#backToTop {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 55px;
+  height: 55px;
+  background: #b00;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 30px;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.4s ease;
+  outline: none;
+}
+
+#backToTop:hover {
+  background: #900;
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+
+#backToTop.show {
+  opacity: 1;
+  visibility: visible;
+}
+</style>
+
+<script>
+window.addEventListener('scroll', function() {
+  const btn = document.getElementById('backToTop');
+  if (window.scrollY > 400) {
+    btn.classList.add('show');
+  } else {
+    btn.classList.remove('show');
+  }
+});
+</script>
 </body>
 </html>
+
 
 
 
