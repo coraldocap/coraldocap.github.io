@@ -273,90 +273,89 @@ https://drive.google.com/uc?export=download&id=1SZvtTLHz7pbMEZhfiZt7J-dbAvod30c1
 
 Partituras:
 
-🎵 As Pastorinhas
-Partitura:
+🎼 As Pastorinhas
 https://drive.google.com/uc?export=download&id=167qY2GbcmVia2Z0tHO_9mtJoAIcpcVXS
 
-🎵 Ave Maria G. Fauré
+🎼 Ave Maria G. Fauré
 Partitura:
 https://drive.google.com/uc?export=download&id=1Hj5x7Z5AwBxxxbJV48KgcGxbCo6Z9IYW
 
-🎵 Ave Verum Corpus - Mozart
+🎼 Ave Verum Corpus - Mozart
 Partitura:
 https://drive.google.com/uc?export=download&id=1L30kFrcvpXTZiTi-jCX7xe-23IG8NIrT
 
-🎵 Azulão
+🎼 Azulão
 Partitura:
 https://drive.google.com/uc?export=download&id=1KUDg-6aWrjC7gzYhYi25b3vj4onQVCzQ
 
-🎵 Caminho das Águas
+🎼 Caminho das Águas
 Partitura:
 https://drive.google.com/uc?export=download&id=1alkZwfHGOmlN74EVNNfYLQ0MxHYhvXuM
 
-🎵 Canta Brasil
+🎼 Canta Brasil
 Partitura:
 https://drive.google.com/uc?export=download&id=1dnqQomrMlcvTXFhScC4Ewuv75ADiM9av
 
-🎵 Chattanooga
+🎼 Chattanooga
 Partitura:
 https://drive.google.com/uc?export=download&id=1kF0jbehlPuj02hZ-79BRO55XkEIZx7wG
 
-🎵 Coral CAP - Parte 1
+🎼 Coral CAP - Parte 1
 Partitura:
 https://drive.google.com/uc?export=download&id=1NMo-56bxs787EFcp0598LST_TdJaflMDH
 
-🎵 Habanera (Carmen - Bizet)
+🎼 Habanera (Carmen - Bizet)
 Partitura:
 https://drive.google.com/uc?export=download&id=1R6-qRu81cRsrmRWC0EWJbEcDl8ZYtGed
 
-🎵 In My Life
+🎼 In My Life
 Partitura:
 https://drive.google.com/uc?export=download&id=1DetRJMrJ6uEvDiASMpQXcZfKk6hdETS2
 
-🎵 Jingle Bell Rock
+🎼 Jingle Bell Rock
 Partitura:
 https://drive.google.com/uc?export=download&id=1UkoV_aSv1TWdIHbZv-2sNjdeng0nDFtI
 
-🎵 Let's Us Breake
+🎼 Let's Us Breake
 Partitura:
 https://drive.google.com/uc?export=download&id=1-cQbFFZTfG75e1t8Ea_Q_W0rdH4C41lO
 
-🎵 Mary Had A Baby
+🎼 Mary Had A Baby
 Partitura:
 https://drive.google.com/uc?export=download&id=1LpaaRTlBMFZUe4vEz_bofYS6EMr_sTOU
 
-🎵 Monsieur Binot
+🎼 Monsieur Binot
 Partitura:
 https://drive.google.com/uc?export=download&id=1KFyLLWh-lh6hmIddgUPuArGhIJpwf4XG
 
-🎵 Noite Santa
+🎼 Noite Santa
 Partitura:
 https://drive.google.com/uc?export=download&id=1NMrTFpsNiCAjdAlQ0cb03tTPX5OXSInw
 
-🎵 Paciência
+🎼 Paciência
 Partitura:
 https://drive.google.com/uc?export=download&id=1X9nKgnkJDEDg9brsztaWkpk01IYLau05
 
-🎵 Paulistano
+🎼 Paulistano
 Partitura:
 https://drive.google.com/uc?export=download&id=1zwlAR9a1KpRcJ9EvBDmx-OH_WvNaC6Dg
 
-🎵 Porgy and Bess - I'm On My Way (Gershwin)
+🎼 Porgy and Bess - I'm On My Way (Gershwin)
 Partitura:
 https://drive.google.com/uc?export=download&id=1SkF-f_v60fRXmEJorAsZfmNE7hSYKGrr
 
-🎵 Sampa, São Paulo
+🎼 Sampa, São Paulo
 Partitura:
 https://drive.google.com/uc?export=download&id=1IeXUMSYQsmlRouLjjYJhNbeDD9fMxY5F
 
-🎵 Só Quero um Xodó
+🎼 Só Quero um Xodó
 Partitura:
 https://drive.google.com/uc?export=download&id=1-s6qxtxWW1h__I0nytz5wCLhZRMGTW1o
 
-🎵 The Long and Winding Road
+🎼 The Long and Winding Road
 Partitura:
 https://drive.google.com/uc?export=download&id=1DeBGJa_R-5MlEuZdUtPFJF512TI6Scjy
 
-🎵 Vá, Pensiero
+🎼 Vá, Pensiero
 Partitura:
 https://drive.google.com/uc?export=download&id=1kZqWoSAAv7IVF1DA2BPwtdY-EbcuWaAh
