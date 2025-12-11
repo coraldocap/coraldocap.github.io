@@ -333,10 +333,7 @@ Partitura:
 https://drive.google.com/uc?export=download&id=1NMrTFpsNiCAjdAlQ0cb03tTPX5OXSInw
 
 🎼 Paciência
-
-
 Partitura:
-
 https://drive.google.com/uc?export=download&id=1X9nKgnkJDEDg9brsztaWkpk01IYLau05
 
 🎼 Paulistano
@@ -348,15 +345,11 @@ Partitura:
 https://drive.google.com/uc?export=download&id=1SkF-f_v60fRXmEJorAsZfmNE7hSYKGrr
 
 🎼 Sampa, São Paulo
-
 Partitura:
-
 https://drive.google.com/uc?export=download&id=1IeXUMSYQsmlRouLjjYJhNbeDD9fMxY5F
 
 🎼 Só Quero um Xodó
-
 Partitura:
-
 https://drive.google.com/uc?export=download&id=1-s6qxtxWW1h__I0nytz5wCLhZRMGTW1o
 
 🎼 The Long and Winding Road
