@@ -313,9 +313,17 @@ https://drive.google.com/uc?export=download&id=1R6-qRu81cRsrmRWC0EWJbEcDl8ZYtGed
 Partitura:
 https://drive.google.com/uc?export=download&id=1DetRJMrJ6uEvDiASMpQXcZfKk6hdETS2
 
+🎵 Jingle Bell Rock
+Partitura:
+https://drive.google.com/uc?export=download&id=1UkoV_aSv1TWdIHbZv-2sNjdeng0nDFtI
+
 🎵 Let's Us Breake
 Partitura:
 https://drive.google.com/uc?export=download&id=1-cQbFFZTfG75e1t8Ea_Q_W0rdH4C41lO
+
+🎵 Mary Had A Baby
+Partitura:
+https://drive.google.com/uc?export=download&id=1LpaaRTlBMFZUe4vEz_bofYS6EMr_sTOU
 
 🎵 Monsieur Binot
 Partitura:
