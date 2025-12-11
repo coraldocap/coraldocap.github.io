@@ -250,18 +250,13 @@
 <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
-	
-	<!-- BOTÃO VOLTAR AO TOPO (versão elegante) -->
-<button onclick="window.scrollTo({top:0,behavior:'smooth'})" id="backToTop" title="Voltar ao topo">
-  Up Arrow
-</button>
 
 <!-- BOTÃO VOLTAR AO TOPO – Estilo clássico com borda (super leve e bonito) -->
 <button id="backToTop" title="Voltar ao topo">
   <span class="up"></span>
 </button>
 
-<style>
+	<style>
 /* Botão fixo no canto inferior direito */
 #backToTop {
   position: fixed;
@@ -270,7 +265,7 @@
   z-index: 9999;
   width: 56px;
   height: 56px;
-  background: #c00;           /* vermelho coral */
+  background: #c8102e;           /* vermelho coral */
   border: none;
   border-radius: 50%;
   cursor: pointer;
@@ -319,6 +314,7 @@ document.getElementById('backToTop').addEventListener('click', function() {
 </script>
 </body>
 </html>
+
 
 
 
