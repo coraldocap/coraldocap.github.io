@@ -47,3 +47,17 @@ Partituras:
 🎼 The Long and Winding Road Partitura: https://drive.google.com/uc?export=download&id=1DeBGJa_R-5MlEuZdUtPFJF512TI6Scjy
 
 🎼 Vá, Pensiero Partitura: https://drive.google.com/uc?export=download&id=1kZqWoSAAv7IVF1DA2BPwtdY-EbcuWaAh
+Disney: 
+🎼 A Bela e a Fera Partitura: https://drive.google.com/uc?export=download&id=1vMr7oo2gH2WjJH9PgAgBrybacR07VCDF 
+
+🎼 Amigo Estou Aqui Partitura: https://drive.google.com/uc?export=download&id=1O5EjZH6TRZaf2_Hods0_bdZXF_ZICoF0 
+
+🎼 Aqui no Mar Partitura: https://drive.google.com/uc?export=download&id=1k3PbNBTB2pxss__OuXWgw7cGVC-ob9IH 
+
+🎼 Bibbidi-Bobbidi-Boo Partitura: https://drive.google.com/uc?export=download&id=1Vtz47Y37Uu5qJOZWrzT_RuSFeFSPV56O 
+
+🎼 Lembre de Mim Partitura: https://drive.google.com/uc?export=download&id=1kUuZ77z9w7QWLuyLegCqFP6ffIAvLcv7 
+
+🎼 Se Uma Estrela Aparecer (Versão Ampliada) Partitura: https://drive.google.com/uc?export=download&id=146jDTAEGMZTbciweGbEXGA5NUstgw9pI 
+
+🎼 Um Mundo Ideal Partitura: https://drive.google.com/uc?export=download&id=1UqP26JzUNidKDXWmVwPKLouu3RnKUoY_ 
