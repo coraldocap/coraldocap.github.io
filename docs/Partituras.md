@@ -1,8 +1,7 @@
 Partituras:
+🎼 Todas as Partituras Partitura: https://drive.google.com/uc?export=download&id=1NMo-56bxs787EFcp0598LST_TdJaflMDH
 
 🎼 Paulistano Partitura: https://drive.google.com/uc?export=download&id=1zwlAR9a1KpRcJ9EvBDmx-OH_WvNaC6Dg
-
-🎼 Todas as Partituras Partitura: https://drive.google.com/uc?export=download&id=1NMo-56bxs787EFcp0598LST_TdJaflMDH
 
 🎼 As Pastorinhas https://drive.google.com/uc?export=download&id=167qY2GbcmVia2Z0tHO_9mtJoAIcpcVXS
 
@@ -47,7 +46,9 @@ Partituras:
 🎼 The Long and Winding Road Partitura: https://drive.google.com/uc?export=download&id=1DeBGJa_R-5MlEuZdUtPFJF512TI6Scjy
 
 🎼 Vá, Pensiero Partitura: https://drive.google.com/uc?export=download&id=1kZqWoSAAv7IVF1DA2BPwtdY-EbcuWaAh
+
 Disney: 
+
 🎼 A Bela e a Fera Partitura: https://drive.google.com/uc?export=download&id=1vMr7oo2gH2WjJH9PgAgBrybacR07VCDF 
 
 🎼 Amigo Estou Aqui Partitura: https://drive.google.com/uc?export=download&id=1O5EjZH6TRZaf2_Hods0_bdZXF_ZICoF0 
